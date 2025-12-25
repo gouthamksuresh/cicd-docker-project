@@ -1,9 +1,3 @@
-Perfect — here is a **clean, professional, copy-paste-ready `README.md`** for your GitHub repo.
-No fluff. Recruiter + internship friendly.
-
----
-
-```md
 # CI/CD Pipeline using GitHub Actions & Docker
 
 ## 📌 Project Overview
@@ -121,6 +115,3 @@ git add README.md
 git commit -m "Add project README"
 git push
 ````
-
-
-
